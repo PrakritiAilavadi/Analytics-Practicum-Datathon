@@ -1,4 +1,10 @@
-# Analytics-Practicum-Datathon
+# Analytics-Practicum-Datathon - Toronto Police Road Safety
 Course 8432, MMA
 
-Note: This repository is public only for Sep 24 for judging purpose
+# Winner (1st position)
+
+Team: 
+Prakriti Ailavadi
+Yuxin Ye
+Vinkush Dhamija
+Zhenghao Zhang
